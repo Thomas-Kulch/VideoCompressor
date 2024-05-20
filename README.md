@@ -29,19 +29,19 @@ Download and Install instructions for Windows 10/11:
     2. Unzip the zip file to whatever location you desire. Ex: "C:\ffmpeg-master-latest-win64-gpl"
 
     3. To add to PATH, search "environment variables" in Windows Search and click "Edit the system environment variables"
-    ![alt text](images/image-1.png)
+    ![Alt Text](images/image-1.png)
 
     4. Click Environment Variables...
-    ![alt text](images/image-2.png)
+    ![Alt Text](images/image-2.png)
 
     5. Highlight "Path" and click "Edit..."
-    ![alt text](images/image-3.png)
+    ![Alt Text](images/image-3.png)
 
     6. Click "New" to add a new variable
-    ![alt text](images/image-4.png)
+    ![Alt Text](images/image-4.png)
 
     7. Add the path to where you installed ffmpeg and include "\bin" at the end. This is how you access the ffmpeg executable. Click Ok to save results.
-    ![alt text](images/image-5.png)
+    ![Alt Text](images/image-5.png)
     
 
 
