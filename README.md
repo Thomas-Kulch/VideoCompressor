@@ -8,13 +8,13 @@ The executable will:
 
     1. Open file explorer and have you select a folder containing videos with the formats : mp4, avi, .mkv, or .mov
 
-    2. Once you select your folder, the code will loop through every file, select the videos in the above formats.
+    2. Once you select your folder, the code will loop through every file and select the videos in the above formats.
     
-    3. Reduce the bitrate while maintaining video quality.
+    3. It will reduce the bitrate while maintaining video quality.
     
     4. Create a new directory called "compressed_videos"
     
-    5. Place the videos inside with a size suitable for Discord
+    5. Place the videos inside in a size suitable for Discord
 
 ### Prerequisites
 
