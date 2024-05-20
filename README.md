@@ -52,7 +52,7 @@ To install and run this project on your local machine:
     1. Download the zip file and unzip to your desired folder
 
     2. Open the folder and the executable is located in the dist directory
-    ![alt text](images/image.png)
+![alt text](images/image.png)
 
 
 
