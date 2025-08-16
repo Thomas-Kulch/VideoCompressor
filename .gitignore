@@ -1,0 +1,5 @@
+# Ignore ffmpeg binary
+code/bin/ffmpeg.exe
+code/bin/
+code/dist/
+code/build/
